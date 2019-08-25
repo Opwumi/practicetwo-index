@@ -1,0 +1,111 @@
+.navigation{
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+
+.navigation ul{ float: left;
+
+}
+.navigation div ul a{ 
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+float: left;
+}
+
+.columna{
+    width: 30%;
+    font-size: 20px;
+    color: white;
+}
+.columnb{
+    width: 60%;
+    
+}
+.columnb a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  float: left;
+  margin-right: 10px;
+}
+ul a:Hover{
+    background-color: rgb(7, 58, 58);
+}
+
+.bigfont{
+    color: white;
+    font-size: 55px;
+    margin-top: 270px;
+    margin-left: 5%;
+}
+#textarea{
+    margin-left: 5%;
+    border: none;
+    color: silver;
+}
+#textareab{
+    background-color: rgb(7, 58, 58);
+    text-align: center;
+    color: white;
+    border: none;
+    padding-top: 10px;
+    
+}
+
+#textareac{
+    margin-left: 5%;
+    border: none;
+    color: silver;
+    margin-left: 250px; 
+}
+#textaread{
+    border: solid;
+    border-color: rgb(23, 182, 182);
+    color: rgb(7, 58, 58);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: justify;
+    padding-top: 15px;
+    
+    
+}
+.pick{
+    color: silver;
+    margin-left: 5%;  
+}
+
+    
+
+#pickb{
+    border: none;
+    margin-left: 20px; 
+}
+
+.sectionb{
+    background-color: white;
+    background-size: cover;
+    text-align: center;
+    font-family: serif;
+    padding-top: 0;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: rgb(18, 224, 224);
+}
+
+.sectionc{
+    background-color: rgb(21, 21, 27);
+    padding-top: 200px;
+    padding-bottom: 2px;
+    text-align: center;
+     color: white;
+}
+
+
+
+
